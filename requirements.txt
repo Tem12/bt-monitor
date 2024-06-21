@@ -1,0 +1,8 @@
+scapy
+bencode.py
+prettytable
+networkx
+matplotlib
+scipy
+numpy
+humanize
